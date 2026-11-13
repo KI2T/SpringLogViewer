@@ -1,0 +1,16 @@
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.AssemblyInfo.cs
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\LogViewer\LogViewer\bin\Debug\net8.0-windows\LogViewer.exe
+C:\Users\Tony\Desktop\LogViewer\LogViewer\bin\Debug\net8.0-windows\LogViewer.deps.json
+C:\Users\Tony\Desktop\LogViewer\LogViewer\bin\Debug\net8.0-windows\LogViewer.runtimeconfig.json
+C:\Users\Tony\Desktop\LogViewer\LogViewer\bin\Debug\net8.0-windows\LogViewer.dll
+C:\Users\Tony\Desktop\LogViewer\LogViewer\bin\Debug\net8.0-windows\LogViewer.pdb
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.dll
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\refint\LogViewer.dll
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.pdb
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.genruntimeconfig.cache
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\ref\LogViewer.dll
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.MainForm.resources
+C:\Users\Tony\Desktop\LogViewer\LogViewer\obj\Debug\net8.0-windows\LogViewer.csproj.GenerateResource.cache
