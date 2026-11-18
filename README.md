@@ -1,25 +1,28 @@
 # Log Viewer
 
-Небольшой просмотрщик Spring Boot логов на C# WinForms (.NET 8).
+A lightweight Spring Boot log viewer built with C# WinForms (.NET 8).
 
-## Возможности
-- Открытие `.log` и `.txt`.
-- Dropdown со всеми обнаруженными logger/source.
-- Отдельный источник `Java Errors` для Java stack trace.
-- Список событий с временем, уровнем и первой строкой сообщения.
-- Полный текст выбранного события в нижней панели.
-- Поиск по сообщению и полному тексту события.
-- Многострочные продолжения сохраняются.
+## Features
 
-## Запуск
-1. Установить .NET 8 SDK.
-2. Открыть `LogViewer.csproj` в Visual Studio 2022 или Rider.
-3. Собрать и запустить проект.
+- Open `.log` and `.txt` files.
+- Dropdown list containing all detected loggers/sources.
+- Dedicated `Java Errors` source for Java stack traces.
+- Event list displaying timestamps, log levels, and the first line of each message.
+- Full text of the selected event displayed in the bottom panel.
+- Search by message content and full event text.
+- Multiline log continuations are preserved.
 
-Из командной строки (Windows):
+## Getting Started
+
+1. Install the .NET 8 SDK.
+2. Open `LogViewer.csproj` in Visual Studio 2022 or Rider.
+3. Build and run the project.
+
+From the command line (Windows):
+
 ```powershell
 dotnet build .\LogViewer\LogViewer.csproj
 dotnet run --project .\LogViewer\LogViewer.csproj
 ```
 
-Приложение рассчитано на Windows.
+The application is designed for Windows.
